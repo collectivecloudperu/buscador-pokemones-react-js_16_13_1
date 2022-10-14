@@ -70,5 +70,77 @@
       "debilidad":"Electricidad",
       "tipo":"Hielo, Volador",
       "img":"i.png"
+   },
+   {
+      "id":"10",
+      "nombre":"Mewtwo",
+      "fortaleza":"Psíquico",
+      "debilidad":"Bicho",
+      "tipo":"Psíquico",
+      "img":"l.png"
+   },
+   {
+      "id":"11",
+      "nombre":"Mew",
+      "fortaleza":"Psíquico",
+      "debilidad":"Bicho",
+      "tipo":"Psíquico",
+      "img":"m.png"
+   },
+   {
+      "id":"12",
+      "nombre":"Moltres",
+      "fortaleza":"Fuego",
+      "debilidad":"Agua",
+      "tipo":"Fuego, Volador",
+      "img":"n.png"
+   },
+   {
+      "id":"13",
+      "nombre":"Zapdos",
+      "fortaleza":"Electricidad",
+      "debilidad":"Tierra",
+      "tipo":"Elétrico, Volador",
+      "img":"o.png"
+   },
+   {
+      "id":"14",
+      "nombre":"Raichu",
+      "fortaleza":"Electricidad",
+      "debilidad":"Tierra",
+      "tipo":"Elétrico",
+      "img":"p.png"
+   },
+   {
+      "id":"15",
+      "nombre":"Bulbasaur",
+      "fortaleza":"Planta",
+      "debilidad":"Fuego",
+      "tipo":"Planta, Veneno",
+      "img":"q.png"
+   },
+   {
+      "id":"16",
+      "nombre":"Venusaur",
+      "fortaleza":"Planta",
+      "debilidad":"Fuego",
+      "tipo":"Planta, Veneno",
+      "img":"r.png"
+   },
+   {
+      "id":"17",
+      "nombre":"Charizard",
+      "fortaleza":"Fuego",
+      "debilidad":"Agua",
+      "tipo":"Fuego, Volador",
+      "img":"s.png"
+   },
+   {
+      "id":"18",
+      "nombre":"Butterfree",
+      "fortaleza":"Planta",
+      "debilidad":"Fuego",
+      "tipo":"Bicho, Volador",
+      "img":"t.png"
    }
 ] 
